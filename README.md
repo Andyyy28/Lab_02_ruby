@@ -6,4 +6,5 @@
 
 #Moore
 
-![Uploading Ruby.jpg…]()
+![Ruby](https://github.com/user-attachments/assets/68e46c99-31b7-4bda-8eeb-fe34d405cd0e)
+
